@@ -1,0 +1,52 @@
+cff-version: 1.2.0
+message: "If you use these datasets, please cite them and the related publications."
+title: "Battery Characterization Datasets: 24-hour OCV Relaxation and Charge-Discharge Voltage Curves"
+abstract: >-
+  Open experimental datasets for rechargeable-battery research: (1) 24-hour
+  open-circuit-voltage relaxation for 8 cells across six chemistries, and
+  (2) charge/discharge voltage curves for 10 LiFePO4 cells. Released under CC BY 4.0.
+type: dataset
+authors:
+  - family-names: "Voicila"
+    given-names: "Iulian-Teodor"
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+    email: "iulian.voicila@upb.ro"
+  - family-names: "Enache"
+    given-names: "Bogdan-Adrian"
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+  - family-names: "Vilciu"
+    given-names: "Irina"
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+  - family-names: "Seritan"
+    given-names: "George-Calin"
+    affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+license: CC-BY-4.0
+year: 2025
+keywords:
+  - battery
+  - LiFePO4
+  - open-circuit voltage
+  - OCV relaxation
+  - state of charge
+  - charge-discharge curves
+  - lithium-ion
+references:
+  - type: article
+    title: "Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-time Knee/Elbow Detection"
+    authors:
+      - family-names: "Voicila"
+        given-names: "Iulian-Teodor"
+    journal: "Batteries"
+    volume: 11
+    issue: 5
+    year: 2025
+    url: "https://www.mdpi.com/2313-0105/11/5/186"
+  - type: article
+    title: "A high-speed multi-chemistry and multi-battery state-of-health screening system for retired lithium-ion batteries"
+    authors:
+      - family-names: "Voicila"
+        given-names: "Iulian-Teodor"
+    journal: "University POLITEHNICA of Bucharest Scientific Bulletin Series C - Electrical Engineering and Computer Science"
+    volume: 87
+    issue: 3
+    year: 2025
