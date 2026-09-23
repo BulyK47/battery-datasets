@@ -13,6 +13,7 @@ The dataset can support battery capacity estimation, voltage-curve comparison, a
 | Item | Description |
 |---|---|
 | Dataset title | Charge and discharge voltage curves for APR and BSE rechargeable batteries under CCCV charging and three constant-current discharge profiles |
+| DOI | [10.21227/cm0f-jg66](https://doi.org/10.21227/cm0f-jg66) |
 | Chemistry | LiFePO4 / lithium iron phosphate |
 | Number of batteries | 10 |
 | Number of charge curves | 30 |
@@ -226,3 +227,9 @@ Voicila, T. I., Enache, B. A., Mateescu, M. V., Seritan, G. C. (2025). *A high-s
 Creative Commons Attribution 4.0 International (CC BY 4.0).
 
 Users should cite the dataset and the related publication when using this data.
+
+## Recommended Citation
+
+Please cite this dataset using its DOI:
+
+VOICILA Iulian-Teodor, ENACHE Bogdan-Adrian, VILCIU Irina, and SERITAN George-Calin, "Battery charge-discharge voltage curves," IEEE DataPort, Version 1, 2026. DOI: [10.21227/cm0f-jg66](https://doi.org/10.21227/cm0f-jg66).

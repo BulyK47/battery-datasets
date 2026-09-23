@@ -6,10 +6,10 @@ Open experimental datasets for rechargeable-battery research, released under
 GitHub). All measurements were performed at the National University of Science
 and Technology POLITEHNICA Bucharest.
 
-| Dataset | Cells | Measurement | IEEE DataPort |
-|---|---|---|---|
-| [24-hour OCV relaxation](ocv-relaxation-24h/) | 8 cells · 6 chemistries | 24 h open-circuit-voltage relaxation after charge/discharge | [record](https://ieee-dataport.org/documents/24-hour-raw-ocv-relaxation-dataset-rechargeable-batteries-different-chemistries) |
-| [Charge–discharge voltage curves](charge-discharge-voltage-curves/) | 10 LiFePO4 cells | CCCV charge + 3 constant-current discharge profiles | [record](https://ieee-dataport.org/documents/battery-charge-discharge-voltage-curves) |
+| Dataset | Cells | Measurement | IEEE DataPort | DOI |
+|---|---|---|---|---|
+| [24-hour OCV relaxation](ocv-relaxation-24h/) | 8 cells · 6 chemistries | 24 h open-circuit-voltage relaxation after charge/discharge | [record](https://ieee-dataport.org/documents/24-hour-raw-ocv-relaxation-dataset-rechargeable-batteries-different-chemistries) | [10.21227/651q-8v82](https://doi.org/10.21227/651q-8v82) |
+| [Charge–discharge voltage curves](charge-discharge-voltage-curves/) | 10 LiFePO4 cells | CCCV charge + 3 constant-current discharge profiles | [record](https://ieee-dataport.org/documents/battery-charge-discharge-voltage-curves) | [10.21227/cm0f-jg66](https://doi.org/10.21227/cm0f-jg66) |
 
 ---
 
@@ -25,6 +25,7 @@ or data-driven model validation.
 
 - 📂 **Folder:** [`ocv-relaxation-24h/`](ocv-relaxation-24h/) — XLSX workbook, 16 CSV traces, full README
 - 🔗 **IEEE DataPort:** https://ieee-dataport.org/documents/24-hour-raw-ocv-relaxation-dataset-rechargeable-batteries-different-chemistries
+- 🆔 **DOI:** [10.21227/651q-8v82](https://doi.org/10.21227/651q-8v82)
 - 📄 **Related paper:** Voicila et al., *Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-time Knee/Elbow Detection*, MDPI Batteries **11(5)**, 2025 — https://www.mdpi.com/2313-0105/11/5/186
 
 ## 2. Charge–Discharge Voltage Curves Dataset
@@ -38,6 +39,7 @@ consistency analysis, and model validation.
 
 - 📂 **Folder:** [`charge-discharge-voltage-curves/`](charge-discharge-voltage-curves/) — XLSX workbook, 20 CSV curves, full README
 - 🔗 **IEEE DataPort:** https://ieee-dataport.org/documents/battery-charge-discharge-voltage-curves
+- 🆔 **DOI:** [10.21227/cm0f-jg66](https://doi.org/10.21227/cm0f-jg66)
 - 📄 **Related paper:** Voicila et al., *A high-speed multi-chemistry and multi-battery state-of-health screening system for retired lithium-ion batteries*, UPB Sci. Bull. Series C, **87(3)**, 2025
 
 ---
@@ -82,6 +84,11 @@ Released under the **Creative Commons Attribution 4.0 International (CC BY 4.0)*
 license — see [LICENSE](LICENSE). You are free to share and adapt the data
 (including commercially) **with appropriate attribution**. When using the data,
 please cite both the dataset and the related publication.
+
+## How to cite
+
+- VOICILA Iulian-Teodor, ENACHE Bogdan-Adrian, VILCIU Irina, and SERITAN George-Calin, "24-hour raw OCV relaxation dataset for rechargeable batteries with different chemistries," IEEE DataPort, Version 1, 2026. DOI: [10.21227/651q-8v82](https://doi.org/10.21227/651q-8v82).
+- VOICILA Iulian-Teodor, ENACHE Bogdan-Adrian, VILCIU Irina, and SERITAN George-Calin, "Battery charge-discharge voltage curves," IEEE DataPort, Version 1, 2026. DOI: [10.21227/cm0f-jg66](https://doi.org/10.21227/cm0f-jg66).
 
 ## Authors
 

@@ -20,8 +20,15 @@ authors:
   - family-names: "Seritan"
     given-names: "George-Calin"
     affiliation: "National University of Science and Technology POLITEHNICA Bucharest"
+identifiers:
+  - type: doi
+    value: "10.21227/651q-8v82"
+    description: "24-hour raw OCV relaxation dataset for rechargeable batteries with different chemistries (IEEE DataPort)"
+  - type: doi
+    value: "10.21227/cm0f-jg66"
+    description: "Battery charge-discharge voltage curves (IEEE DataPort)"
 license: CC-BY-4.0
-year: 2025
+date-released: 2026-05-23
 keywords:
   - battery
   - LiFePO4
@@ -31,6 +38,40 @@ keywords:
   - charge-discharge curves
   - lithium-ion
 references:
+  - type: data
+    title: "24-hour raw OCV relaxation dataset for rechargeable batteries with different chemistries"
+    authors:
+      - family-names: "Voicila"
+        given-names: "Iulian-Teodor"
+      - family-names: "Enache"
+        given-names: "Bogdan-Adrian"
+      - family-names: "Vilciu"
+        given-names: "Irina"
+      - family-names: "Seritan"
+        given-names: "George-Calin"
+    publisher:
+      name: "IEEE DataPort"
+    version: "1"
+    year: 2026
+    doi: "10.21227/651q-8v82"
+    url: "https://ieee-dataport.org/documents/24-hour-raw-ocv-relaxation-dataset-rechargeable-batteries-different-chemistries"
+  - type: data
+    title: "Battery charge-discharge voltage curves"
+    authors:
+      - family-names: "Voicila"
+        given-names: "Iulian-Teodor"
+      - family-names: "Enache"
+        given-names: "Bogdan-Adrian"
+      - family-names: "Vilciu"
+        given-names: "Irina"
+      - family-names: "Seritan"
+        given-names: "George-Calin"
+    publisher:
+      name: "IEEE DataPort"
+    version: "1"
+    year: 2026
+    doi: "10.21227/cm0f-jg66"
+    url: "https://ieee-dataport.org/documents/battery-charge-discharge-voltage-curves"
   - type: article
     title: "Enhanced OCV Estimation in LiFePO4 Batteries: A Novel Statistical Approach Leveraging Real-time Knee/Elbow Detection"
     authors:

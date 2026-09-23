@@ -15,6 +15,7 @@ The dataset is intended to support battery modeling, state-of-charge (SOC) estim
 | Item | Description |
 |---|---|
 | Dataset title | 24-hour OCV relaxation measurements after complete charge/discharge cycles for batteries with different chemistries |
+| DOI | [10.21227/651q-8v82](https://doi.org/10.21227/651q-8v82) |
 | Main data format | XLSX workbook |
 | Number of batteries | 8 |
 | Battery chemistries | LiFePO4, LiNiMnCoO2, LiCoO2, LiPo, NiCd, NiMH |
@@ -231,8 +232,6 @@ Users should cite the dataset and the related publication when using this data.
 
 ## Recommended Citation
 
-Please cite this dataset using the DOI or citation format provided by IEEE DataPort after publication. Until the DOI is assigned, cite the dataset title, authors, institution, version, and IEEE DataPort record.
+Please cite this dataset using its DOI:
 
-Suggested placeholder citation:
-
-VOICILA Iulian-Teodor, ENACHE Bogdan-Adrian, VILCIU Irina, and SERITAN George-Calin, "24-hour OCV relaxation measurements after complete charge/discharge cycles for batteries with different chemistries," IEEE DataPort, Version 1, 2025. DOI: TBC.
+VOICILA Iulian-Teodor, ENACHE Bogdan-Adrian, VILCIU Irina, and SERITAN George-Calin, "24-hour raw OCV relaxation dataset for rechargeable batteries with different chemistries," IEEE DataPort, Version 1, 2026. DOI: [10.21227/651q-8v82](https://doi.org/10.21227/651q-8v82).
